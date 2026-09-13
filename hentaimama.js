@@ -9,7 +9,7 @@ const mangayomiSources = [
     "itemType": 1,
     "isManga": false,
     "isNsfw": true,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "pkgPath": "hentaimama.js"
   }
 ];
